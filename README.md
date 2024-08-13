@@ -1,5 +1,5 @@
 
-- 👋 Hi there, I'm @Ranjha348 👋
+- 👋 Hi there, I'm @Ranjha347 👋
 - 👀 I’m interested in web development and modern JavaScript frameworks.
 - 🌱 I’m currently learning advanced techniques in Next.js, Laravel, and Magento 2.
 - 💞️ I’m looking to collaborate on projects involving Magento 2, Laravel, and Next.js.
